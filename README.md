@@ -94,7 +94,7 @@ l'appréciation de la situation individuelle relève d'un professionnel.
 └── main.py                 # point d'entrée
 ```
 
-## ⚠️ Note importante sur le corpus actuel
+##  Note importante sur le corpus actuel
 
 Le fichier `data/corpus.json` fourni contient un corpus de démarrage
 **saisi manuellement à des fins de développement du pipeline**. Les textes
