@@ -109,9 +109,4 @@ LEGI dans `src/extraction.py` (Option B, recommandée).
 dans `db/meta.json` lors de l'indexation et vérifié avant chaque
 recherche pour éviter toute incohérence.
 
-## Amélioration jalon 6
 
-
-=======
-# RagProjetFinale
->>>>>>> 3e9d9ab002f90f989cf7da54bfe2cbc0a7a16bde
