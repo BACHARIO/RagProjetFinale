@@ -94,12 +94,3 @@ l'appréciation de la situation individuelle relève d'un professionnel.
 └── main.py                 # point d'entrée
 ```
 
-##  Note importante sur le corpus actuel
-
-Le fichier `data/corpus.json` fourni contient un corpus de démarrage
-**saisi manuellement à des fins de développement du pipeline**. Les textes
-doivent être vérifiés et remplacés par les textes exacts avant la remise
-finale — soit en les recopiant depuis legifrance.gouv.fr (Option C,
-plafonnée au barème), soit en implémentant l'extraction depuis le dump XML
-LEGI dans `src/extraction.py` (Option B, recommandée).
-
