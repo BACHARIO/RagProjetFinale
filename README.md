@@ -111,7 +111,7 @@ recherche pour éviter toute incohérence.
 
 ## Amélioration jalon 6
 
-_À compléter selon l'amélioration choisie._
+
 =======
 # RagProjetFinale
 >>>>>>> 3e9d9ab002f90f989cf7da54bfe2cbc0a7a16bde
