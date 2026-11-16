@@ -103,10 +103,3 @@ finale — soit en les recopiant depuis legifrance.gouv.fr (Option C,
 plafonnée au barème), soit en implémentant l'extraction depuis le dump XML
 LEGI dans `src/extraction.py` (Option B, recommandée).
 
-## Modèle d'embedding
-
-`paraphrase-multilingual-MiniLM-L12-v2` (sentence-transformers), tracé
-dans `db/meta.json` lors de l'indexation et vérifié avant chaque
-recherche pour éviter toute incohérence.
-
-
